@@ -1,8 +1,8 @@
 {
   "name": "Codespace for Skills!",
   "features": {
-    "ghcr.io/devcontainers/features/powershell:1": {}
-  }
+      "ghcr.io/devcontainers/features/powershell:1": {}
+  },
   "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
   "remoteUser": "codespace",
   "overrideCommand": false,
